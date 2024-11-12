@@ -1,0 +1,1 @@
+require('tamui/tamui')
