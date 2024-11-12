@@ -1,7 +1,6 @@
 {
   "name": "tamui",
   "version": "0.0.1-alpha",
-  "main": "index.js",
   "scripts": {
     "dev": "npx tailwindcss -i ./src/input.css -o ./dist/tamui.css --watch"
   },
