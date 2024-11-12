@@ -1263,7 +1263,6 @@ const emuikitPlugin =plugin(function({addComponents,theme}){
           '@apply py-3 px-6 rounded-lg text-white font-semibold transition duration-300': {},
         },
     
-        // Basic Plan Styles
         '.pricing-card-gradient-basic': {
           '@apply bg-gradient-to-r from-teal-400 to-teal-600 text-white': {},
         },
@@ -1271,7 +1270,6 @@ const emuikitPlugin =plugin(function({addComponents,theme}){
           '@apply bg-teal-700 hover:bg-teal-800': {},
         },
     
-        // Premium Plan Styles
         '.pricing-card-gradient-premium': {
           '@apply bg-gradient-to-r from-purple-400 to-purple-600 text-white': {},
         },
